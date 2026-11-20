@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ciiki.eu.org/2025/05/29/jemalloc%E6%8E%92%E6%9F%A5%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2/</loc>
+    <lastmod>2026-11-20</lastmod>
+  </url>
+  <url>
     <loc>https://ciiki.eu.org/2026/08/17/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F5-%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2026-09-21</lastmod>
   </url>
@@ -282,10 +286,6 @@
   </url>
   <url>
     <loc>https://ciiki.eu.org/2023/06/29/git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2026-09-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ciiki.eu.org/2025/05/29/jemalloc%E6%8E%92%E6%9F%A5%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2/</loc>
     <lastmod>2026-09-21</lastmod>
   </url>
   <url>
